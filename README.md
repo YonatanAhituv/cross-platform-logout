@@ -3,7 +3,7 @@
 
 This simple [CircuitPython](https://github.com/adafruit/circuitpython) code for the [Adafruit Circuit Playground Express](https://www.adafruit.com/product/3333) will show a message and logout any computer it's plugged into.
 ## Instructions
-Upload the code and any sound you'd like to play during the message and logout and save it as `alarm.wav`   
+Upload the code along with any sound you'd like to play during the message and logout and save the sound as `alarm.wav`   
 \
 On plugging into any computer, press the applicable button for it's OS.
 * Button A - Chrome OS
